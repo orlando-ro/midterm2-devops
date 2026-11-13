@@ -24,4 +24,4 @@ ansible-playbook -i inventory.ini playbook.yml
 ```
 
 ## Captura de pantalla de la ejecución
-![Ejecucion del Playbook](playbook-success.png)
+![Ejecucion del Playbook](ansible-lab/playbook-success.png)
